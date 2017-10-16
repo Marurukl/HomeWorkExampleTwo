@@ -1,0 +1,15 @@
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\bin\Debug\HomeWorkExampleTwo.exe.config
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\bin\Debug\HomeWorkExampleTwo.exe
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\bin\Debug\HomeWorkExampleTwo.pdb
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo.csprojResolveAssemblyReference.cache
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\MainWindow.g.cs
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\App.g.cs
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo_MarkupCompile.cache
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo_MarkupCompile.lref
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\MainWindow.baml
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo.g.resources
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo.Properties.Resources.resources
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo.csproj.GenerateResource.Cache
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo.csproj.CoreCompileInputs.cache
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo.exe
+C:\Users\закарьянова\source\repos\HomeWorkExampleTwo\HomeWorkExampleTwo\obj\Debug\HomeWorkExampleTwo.pdb
